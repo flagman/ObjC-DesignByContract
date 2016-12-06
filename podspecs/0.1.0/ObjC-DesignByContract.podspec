@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = "LICENSE.md"
 
   s.author       = { "Bryn Austin Bellomy" => "bryn.bellomy@gmail.com" }
-  s.source       = { :git => "https://github.com/brynbellomy/ObjC-DesignByContract.git" }
+  s.source       = { :git => "https://github.com/flagman/ObjC-DesignByContract.git" }
 
   s.source_files = "{Contracts.h,vendor/libextobjc/{EXTScope.{h,m},metamacros.h}}"
   s.requires_arc = true
